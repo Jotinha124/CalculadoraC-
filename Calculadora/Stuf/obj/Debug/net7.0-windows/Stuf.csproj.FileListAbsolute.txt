@@ -1,0 +1,16 @@
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Stuf.exe
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Stuf.deps.json
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Stuf.runtimeconfig.json
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Stuf.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Stuf.pdb
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.csproj.GenerateResource.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.AssemblyInfoInputs.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.AssemblyInfo.cs
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.csproj.CoreCompileInputs.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\refint\Stuf.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.pdb
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.genruntimeconfig.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\ref\Stuf.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.Pagina_inicial.resources

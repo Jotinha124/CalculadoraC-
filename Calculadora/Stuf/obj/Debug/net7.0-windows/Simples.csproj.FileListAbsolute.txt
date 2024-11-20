@@ -1,0 +1,16 @@
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Simples.exe
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Simples.deps.json
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Simples.runtimeconfig.json
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Simples.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\bin\Debug\net7.0-windows\Simples.pdb
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Stuf.Pagina_inicial.resources
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.csproj.GenerateResource.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.AssemblyInfoInputs.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.AssemblyInfo.cs
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.csproj.CoreCompileInputs.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\refint\Simples.dll
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.pdb
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\Simples.genruntimeconfig.cache
+C:\Users\Jotinha\Programing\C#Projects\Calculadora\Stuf\obj\Debug\net7.0-windows\ref\Simples.dll
